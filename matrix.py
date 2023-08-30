@@ -1,3 +1,4 @@
+import numpy
 def matrix(value):
     count=0
     for i in value:
